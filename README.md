@@ -1,4 +1,4 @@
-# 👋 Hello!
+# 👋 Hello! :)
 
 ### Student Developer • Open Source Creator • Modding Enthusiast
 
@@ -38,8 +38,6 @@ I'm a student dev who loves building software, making UIs, and creating tools fo
 ---
 
 ## Most Used Languages
-
-
 
 ---
 
@@ -113,9 +111,9 @@ An embedded systems project comparing digital and analog UV sensors using an ESP
 # Find Me
 
  **GitHub**  
-https://github.com/Draco12191712-VivaanBobade
+<https://github.com/Draco12191712-VivaanBobade>
 
  **CurseForge**  
-https://www.curseforge.com/members/draco12191712/projects
+<https://www.curseforge.com/members/draco12191712/projects>
 
 That's it! :D
