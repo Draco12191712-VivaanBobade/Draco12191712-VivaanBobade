@@ -38,7 +38,6 @@ I'm a student dev who loves building software, making UIs, and creating tools fo
 ---
 
 ## Languages I Know
-## 💻 Languages I Know
 
 ![Ada](https://img.shields.io/badge/Ada-02f88c?style=for-the-badge&logo=ada&logoColor=white)
 ![AppleScript](https://img.shields.io/badge/AppleScript-999999?style=for-the-badge&logo=applescript&logoColor=white)
