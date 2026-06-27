@@ -39,13 +39,11 @@ I'm a student dev who loves building software, making UIs, and creating tools fo
 
 ## Most Used Languages
 
-<p align="center">
-  <img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Draco12191712-VivaanBobade&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-</p>
+
 
 ---
 
-# ⚙️ Tools & Technologies
+# Tools & Technologies
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
@@ -109,12 +107,6 @@ An embedded systems project comparing digital and analog UV sensors using an ESP
 - Piano
 - Taekwondo
 - Graphic Design
-
----
-
-# GitHub Stats
-
-> *(GitHub Readme Stats, Streak Stats, Top Languages, Contribution Snake, and Activity Graph go here.)*
 
 ---
 
