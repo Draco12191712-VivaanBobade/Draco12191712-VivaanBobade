@@ -37,7 +37,49 @@ I'm a student dev who loves building software, making UIs, and creating tools fo
 
 ---
 
-## Most Used Languages
+## Languages I Know
+## 💻 Languages I Know
+
+![Ada](https://img.shields.io/badge/Ada-02f88c?style=for-the-badge&logo=ada&logoColor=white)
+![AppleScript](https://img.shields.io/badge/AppleScript-999999?style=for-the-badge&logo=applescript&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge)
+![BASIC](https://img.shields.io/badge/BASIC-512BD4?style=for-the-badge)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![CSV](https://img.shields.io/badge/CSV-217346?style=for-the-badge)
+![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white)
+![Common Lisp](https://img.shields.io/badge/Common%20Lisp-3FB68B?style=for-the-badge)
+![Forth](https://img.shields.io/badge/Forth-6C3483?style=for-the-badge)
+![Fortran](https://img.shields.io/badge/Fortran-734F96?style=for-the-badge&logo=fortran&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Godot Resource](https://img.shields.io/badge/Godot%20Resource-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![HTTP](https://img.shields.io/badge/HTTP-005571?style=for-the-badge)
+![Haskell](https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![KiCad](https://img.shields.io/badge/KiCad%20Schematic-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=for-the-badge)
+![Objective-C++](https://img.shields.io/badge/Objective--C%2B%2B-00599C?style=for-the-badge)
+![Papyrus](https://img.shields.io/badge/Papyrus-8A2BE2?style=for-the-badge)
+![Pascal](https://img.shields.io/badge/Pascal-E3A857?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![UnrealScript](https://img.shields.io/badge/UnrealScript-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge)
+![mcfunction](https://img.shields.io/badge/mcfunction-3C8527?style=for-the-badge&logo=minecraft&logoColor=white)
+![Molang](https://img.shields.io/badge/Molang-62B47A?style=for-the-badge&logo=minecraft&logoColor=white)
 
 ---
 
