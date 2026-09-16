@@ -133,3 +133,6 @@ An app for macOS dedicated to keeping health records and tabs on *your* pet rabb
 That's it! :D
 
 *If the code works, I **do not know why**. If the code breaks, I **still** do not know why.*
+
+![snake gif](https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![snake gif](https://raw.githubusercontent.com/<username>/<username>/output/github-contribution-grid-snake.svg#gh-light-mode-only)
