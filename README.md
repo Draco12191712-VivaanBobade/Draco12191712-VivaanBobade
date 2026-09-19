@@ -1,8 +1,8 @@
 # 👋 Hello! :)
 
-### Student Developer • Open Source Creator • Modding Enthusiast
+### Student Dev • Open Source Creator • Andd a modder.
 
-I'm a student dev who loves building software, making UIs, and creating tools for game modding. I enjoy learning new programming languages, experimenting with desktop applications, and contributing to the open-source community.
+I'm a student dev who loves building software, making UIs, and creating tools for game modding. I enjoy learning new programming languages and experimenting with desktop applications!
 
 ---
 
@@ -11,38 +11,27 @@ I'm a student dev who loves building software, making UIs, and creating tools fo
 - Rust
 - React
 - TypeScript
-- Desktop application development
-- Compiler & IntelliSense design
-- Extension systems
-- Language Server Protocol (LSP)
+- Tauri
 
 ---
 
 # About Me
 
 - I love programming
-- I also enjoy modding games (mainly Minecraft Bedrock, but I have a few proprietary Minecraft: Story mode mods.)
+- I also enjoy modding games
 - I love building websites and desktop applications.
-- I love contributing to open source projects!
-
+- 
 ---
 
 ## Languages I Know
 
 ![AppleScript](https://img.shields.io/badge/AppleScript-999999?style=for-the-badge&logo=applescript&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![CoffeeScript](https://img.shields.io/badge/CoffeeScript-2F2625?style=for-the-badge&logo=coffeescript&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -96,12 +85,6 @@ Immersive Machinery brings a collection of rustic machines to Minecraft: Bedrock
 
 ---
 
-## Dungeons & Dragons Add-on
-
-Adds Dungeons & Dragons-inspired content to Minecraft Bedrock Edition.
-
----
-
 ## BunnyCare
 
 An app for macOS dedicated to keeping health records and tabs on *your* pet rabbit.
@@ -112,8 +95,8 @@ An app for macOS dedicated to keeping health records and tabs on *your* pet rabb
 
 - Software Development
 - Game Modding
-- Making Desktop Applications
-- UI / UX Design
+- Making Desktop Apps
+- Graphics
 - Electronics
 - Space & Engineering
 - Piano
@@ -129,7 +112,3 @@ An app for macOS dedicated to keeping health records and tabs on *your* pet rabb
 
  **CurseForge**  
 <https://www.curseforge.com/members/draco12191712/projects>
-
-That's it! :D
-
-*If the code won't run, I **do not know why**. If the code works, I **still** do not know why.*
